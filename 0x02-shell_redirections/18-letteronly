@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -v '^[[:alpha:]]' /etc/passwd_config
+grep -v '^[[:alpha:]]' /etc/ssh/sshd_config
+
