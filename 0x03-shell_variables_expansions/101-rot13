@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'B-Ca-Ab-cD-d' 'A-Bb-dB-Ca-c'
